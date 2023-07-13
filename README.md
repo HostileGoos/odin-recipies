@@ -1,0 +1,2 @@
+This project is done to demonstrate my abilities that I've learned so far thro out this course.
+It will show my knowledge about basic html functions such as creating web page,modifying it,basic commands and also practice use of GIT repository.
